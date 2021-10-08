@@ -1,1 +1,0 @@
-# palte_test
